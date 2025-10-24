@@ -24,21 +24,18 @@ Java Developer
 
 ---
 
-//## 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
   <a href="[Your LinkedIn URL]" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Username]" height="30" width="40" />
-  </a>
-  <a href="[Your Twitter URL]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your Twitter Username]" height="30" width="40" />
-  </a>
+  
   <a href="mailto:[Your Email Address]">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
----//
+---
 
 ## 🛠️ Skills & Technologies
 
