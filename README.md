@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nadeesh
 
-[Your Position/Title, e.g., Java Developer | Full Stack Enthusiast]
+Java Developer
 
 ---
 
