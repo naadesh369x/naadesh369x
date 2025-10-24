@@ -74,7 +74,7 @@ Java Developer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user==naadesh369x&theme=default&hide_border=true" alt="[Your-Username]'s GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=naadesh369x&theme=default&hide_border=true" alt="[Your-Username]'s GitHub streak"/>
 </p>
 
 ---
