@@ -11,8 +11,8 @@
 ## 🚀 Current Projects
 
 - **[Project Name 1]**: LibraryHelpDesk project
-- **[Project Name 2]**: Property selling project
--
+- **[Project Name 2]**: Property selling web project
+
 
 ---
 
