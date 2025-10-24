@@ -1,38 +1,81 @@
-<h2 align="left">Hi 👋! My name is Nadeesh </h2>
+# Hi 👋, I'm Nadeesh
 
-###
+[Your Position/Title, e.g., Java Developer | Full Stack Enthusiast]
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naadesh369x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQzcDR0dW9xcnZxeHM5cTJybnY1MHRtNm1jYnZ5b2RicTltaDY2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-
-</div>
-
-###
-
-<div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
+---
 
 
-###
+
+---
+
+## 🚀 Current Projects
+
+- **[Project Name 1]**: LibraryHelpDesk project
+- **[Project Name 2]**: Property selling project
+-
+
+---
+
+## 📚 What I'm Learning
+
+- [Technology/Skill 1, e.g., Spring Boot]
+- [Technology/Skill 2, e.g., Docker & Kubernetes]
+- [Technology/Skill 3, e.g., Advanced Algorithms]
+
+---
+
+//## 📫 Connect With Me
+
+<p align="left">
+  <a href="[Your LinkedIn URL]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Username]" height="30" width="40" />
+  </a>
+  <a href="[Your Twitter URL]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your Twitter Username]" height="30" width="40" />
+  </a>
+  <a href="mailto:[Your Email Address]">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+---//
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <!-- Add more icons here if you want -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naadesh369x&show_icons=true&theme=default&hide_border=true" alt="[Your-Username]'s GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==naadesh369x&layout=compact&theme=default&hide_border=true" alt="[Your-Username]'s top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user==naadesh369x&theme=default&hide_border=true" alt="[Your-Username]'s GitHub streak"/>
+</p>
+
+---
+
