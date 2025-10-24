@@ -66,15 +66,15 @@ Java Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naadesh369x&show_icons=true&theme=default&hide_border=true" alt="[Your-Username]'s GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naadesh369x&show_icons=true&theme=black&hide_border=true" alt="[Your-Username]'s GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naadesh369x&layout=compact&theme=default&hide_border=true" alt="[Your-Username]'s top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naadesh369x&layout=compact&theme=black&hide_border=true" alt="[Your-Username]'s top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user==naadesh369x&theme=default&hide_border=true" alt="[Your-Username]'s GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user==naadesh369x&theme=black&hide_border=true" alt="[Your-Username]'s GitHub streak"/>
 </p>
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQzcDR0dW9xcnZxeHM5cTJybnY1MHRtNm1jYnZ5b2RicTltaDY2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
