@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀  Projects
 
 - **Library Help Desk Project**
 - **Property Selling Web Project**
