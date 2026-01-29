@@ -14,8 +14,8 @@
 ## 📚 What I'm Learning
 
 - Spring Boot  
-- Java  
-
+- Java
+- Kotlin
 ---
 
 ## 📫 Connect With Me
@@ -95,11 +95,7 @@
     alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=naadesh369x&theme=dark&hide_border=true"
-    alt="GitHub Streak" />
-</p>
+
 
 <p align="right">
   <img
