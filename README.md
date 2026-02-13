@@ -1,11 +1,9 @@
 <!-- Animated Header -->
+
 <h1 align="center">
-  Hi 👋, I'm Nadeesh
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nadeesh;Java+Developer;Spring+Boot+Learner;Future+Software+Engineer" />
 </h1>
 
-<h3 align="center">
- 
-</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -71,7 +69,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  //<img src="https://komarev.com/ghpvc/?username=naadesh369x&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=naadesh369x&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
