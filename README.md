@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Java Developer | Spring Boot Learner | Future Software Engineer
+ 
 </h3>
 
 <!-- Typing Animation -->
@@ -70,9 +70,9 @@
 
 ## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naadesh369x&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+//<p align="center">
+  //<img src="https://komarev.com/ghpvc/?username=naadesh369x&label=Profile%20views&color=0e75b6&style=flat" />
+//</p>
 
 ---
 
