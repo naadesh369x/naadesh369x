@@ -24,9 +24,10 @@
 
 ## 📚 Currently Learning
 
-- 🌱 Spring Boot  
-- ☕ Advanced Java  
-- 📱 Kotlin  
+- Spring Boot  
+- Java  
+- Kotlin
+- javaScript 
 
 ---
 
