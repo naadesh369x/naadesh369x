@@ -43,7 +43,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naadesh369x&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" 
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naadesh369x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+
 
 </p>
 
