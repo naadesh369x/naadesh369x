@@ -55,6 +55,8 @@
 ## 💻 Most Used Languages
 
 <p align="center">
+  <img height="170" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naadesh369x&layout=compact"/>
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naadesh369x&layout=donut&theme=tokyonight&hide_border=true"/>
 </p>
 
