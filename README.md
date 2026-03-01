@@ -20,6 +20,9 @@
 ✨ **Property Selling Web Application**  
 📌 Web platform for property listing and selling  
 
+✨ **Restaurant managment system Web Application**  
+📌 Web platform for resturant system
+
 ---
 
 ## 📚 Currently Learning
