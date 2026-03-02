@@ -65,7 +65,7 @@
 <p align="center">
   ## 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naadesh369x&layout=compact)
+<p https://github-readme-stats.vercel.app/api/top-langs/?username=naadesh369x&layout=compact </p>  
 <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naadesh369x&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
