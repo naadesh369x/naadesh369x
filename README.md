@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=naadesh369x&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Nadeesh-ld&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 <p align="center">
   🚀 Most Used Languages
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naadesh369x&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nadeesh-ld&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
@@ -87,7 +87,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naadesh369x&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Nadeesh-ld&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
